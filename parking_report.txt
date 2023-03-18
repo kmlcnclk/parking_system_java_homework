@@ -1,0 +1,71 @@
+Report generated at 2023-03-12 16:57:58
+Number of passenger cars parked: 5
+Number of lorry cars parked: 6
+Number of vacant passenger car spaces: 28
+Number of vacant lorry car spaces: 27
+Parked passenger cars:
+Space 1: arrived at 2023-03-12 16:57:58
+Space 19: arrived at 2023-03-12 16:57:58
+Space 13: arrived at 2023-03-12 16:57:58
+Space 14: arrived at 2023-03-12 16:57:58
+Space 15: arrived at 2023-03-12 16:57:58
+Parked lorry cars:
+Space 1: arrived at 2023-03-12 16:57:58
+Space 18: arrived at 2023-03-12 16:57:58
+Space 3: arrived at 2023-03-12 16:57:58
+Space 5: arrived at 2023-03-12 16:57:58
+Space 6: arrived at 2023-03-12 16:57:58
+Space 30: arrived at 2023-03-12 16:57:58
+Report generated at 2023-03-12 16:59:13
+Number of passenger cars parked: 5
+Number of lorry cars parked: 6
+Number of vacant passenger car spaces: 39
+Number of vacant lorry car spaces: 27
+Parked passenger cars:
+Space 4: arrived at 2023-03-12 16:59:13
+Space 36: arrived at 2023-03-12 16:59:13
+Space 23: arrived at 2023-03-12 16:59:13
+Space 44: arrived at 2023-03-12 16:59:13
+Space 13: arrived at 2023-03-12 16:59:13
+Parked lorry cars:
+Space 17: arrived at 2023-03-12 16:59:13
+Space 6: arrived at 2023-03-12 16:59:13
+Space 9: arrived at 2023-03-12 16:59:13
+Space 26: arrived at 2023-03-12 16:59:13
+Space 27: arrived at 2023-03-12 16:59:13
+Space 13: arrived at 2023-03-12 16:59:13
+Report generated at 2023-03-12 17:01:02
+Number of passenger cars parked: 2
+Number of lorry cars parked: 2
+Number of vacant passenger car spaces: 42
+Number of vacant lorry car spaces: 31
+Parked passenger cars:
+Space 44: arrived at 2023-03-12 16:59:13
+Space 13: arrived at 2023-03-12 16:59:13
+Parked lorry cars:
+Space 27: arrived at 2023-03-12 16:59:13
+Space 13: arrived at 2023-03-12 16:59:13
+Report generated at 2023-03-12 17:01:55
+Number of passenger cars parked: 1
+Number of lorry cars parked: 1
+Number of vacant passenger car spaces: 43
+Number of vacant lorry car spaces: 32
+Parked passenger cars:
+Space 13: arrived at 2023-03-12 16:59:13
+Parked lorry cars:
+Space 13: arrived at 2023-03-12 16:59:13
+Report generated at 2023-03-12 17:02:15
+Number of passenger cars parked: 1
+Number of lorry cars parked: 0
+Number of vacant passenger car spaces: 43
+Number of vacant lorry car spaces: 33
+Parked passenger cars:
+Space 13: arrived at 2023-03-12 16:59:13
+Parked lorry cars:
+Report generated at 2023-03-12 17:02:33
+Number of passenger cars parked: 0
+Number of lorry cars parked: 0
+Number of vacant passenger car spaces: 44
+Number of vacant lorry car spaces: 33
+Parked passenger cars:
+Parked lorry cars:
